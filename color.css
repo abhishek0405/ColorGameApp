@@ -1,0 +1,42 @@
+.square{
+	background: black;
+	width: 30%;
+	padding-bottom: 25%;
+	float:left;
+	margin:1.4%;
+	border-radius: 10%;
+
+}
+
+#container{
+	max-width: 600px;
+	padding-top: 50px;
+
+	margin:0 auto;/*0 on top and bottom auto on left and right ot center*/
+}
+body{
+	background:black;
+}
+h1{
+	color:white;
+	text-align: center;
+}
+
+#message{
+	color:blue;
+	font-size: 30px;
+
+}
+
+#stripe{
+	background: white;
+	height: 40px;
+	text-align: center;
+	color:black;
+	margin: 0 auto;
+}
+
+#heading{
+	background: rgb(72, 86, 255);
+}
+
